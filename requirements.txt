@@ -1,0 +1,6 @@
+PyQt5
+Pillow
+numpy
+opencv-python-headless
+imageio-ffmpeg
+# neuvoice  (optioneel: tekst-naar-spraak; run.bat installeert dit apart)
